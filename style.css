@@ -246,7 +246,7 @@ body {
         margin-left: 53px;
         background-color:transparent;
 } 
-.mer2{
+.mer1{
     padding-right: 200px;
     margin-left: 100px;
    
@@ -365,18 +365,18 @@ body {
 }
 .sky{
     margin-top: 5px;
-    width: 69%;
+    width: 89%;
     height: 50vh;
   }
 
 .linaf{
     margin-top: 5px;
-    width: 69%;
+    width: 95%;
     height: 50vh;
 }
 .section3 img{
     height: 320px;
-    width:70%;
+    width:93%;
     margin-bottom: 20px;
 }
 
